@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#C
-=======
 #E
->>>>>>> acdfc4760420eb25f7047d2e7fd0bef6fa2abf2d
 n=0
 
 #F
@@ -21,4 +17,3 @@ if n > 4 and n < 7:
 #A		
 else:
     print('ERROR')
-#OK
