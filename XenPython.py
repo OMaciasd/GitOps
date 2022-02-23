@@ -18,6 +18,7 @@ if n > 4 and n < 7:
                 print('_', end='')
         print('')
 
+#A		
 else:
     print('ERROR')
 #OK
