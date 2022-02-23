@@ -1,7 +1,7 @@
 #C
 n=0
 
-#F
+#D
 if n > 4 and n < 7:
     for i in range(n):
         for j in range(n):
