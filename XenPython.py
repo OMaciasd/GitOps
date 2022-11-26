@@ -1,7 +1,7 @@
-#F
+# INDEX.
 n=0
 
-#D
+# DRAW.
 if n > 4 and n < 7:
     for i in range(n):
         for j in range(n):
@@ -14,6 +14,6 @@ if n > 4 and n < 7:
                 print('_', end='')
         print('')
 
-#E	
+# PRINT.	
 else:
     print('ERROR')
